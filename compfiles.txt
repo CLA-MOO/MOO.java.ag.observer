@@ -1,0 +1,7 @@
+./miTest/AppTest.java
+./wsStockMarket/StockMarket.java
+./wsStockMarket/Observer.java
+./wsStockMarket/Subject.java
+./wsStockMarket/Stock.java
+./wsStockMarket/Trader.java
+./miPrincipal/Principal.java
