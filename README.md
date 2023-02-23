@@ -1,5 +1,22 @@
 # Proyecto - StockMarket
 
+# Diagrama de clases
+[Editor en línea](https://mermaid.live/)
+```mermaid
+---
+title: Clase
+---
+classDiagram
+      class Clase
+      Clase: -x
+      Clase: -y
+      Clase: +op1()
+      Clase: +op2()
+      Clase: +op3()
+      Clase: +op4()
+```
+[Referencia-Mermaid](https://mermaid.js.org/syntax/classDiagram.html)
+
 **Observer Design Pattern Assignment**
 
 This assignment will give you practice in using the Observer Design Pattern.
